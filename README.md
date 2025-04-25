@@ -8,7 +8,7 @@ git commit -m 'feat(subscription)!: Add subscription feature'
 git commit -m 'feat(login): Add login feature'
 ```
 
-<!-- ## 3. PATCH (Bugfix atau peningkatan kecil):
+## 3. PATCH (Bugfix atau peningkatan kecil):
 ```
 git commit -m 'fix(login): Fix login button'
-``` -->
+```
